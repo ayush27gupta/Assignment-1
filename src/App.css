@@ -3,7 +3,7 @@ body {
   padding: 2rem;
   height: 100vh;
   width: 500vw;
-  background: linear-gradient(rgb(41, 255, 191), white, coral, white) repeat-x;
+  background: linear-gradient(rgb(41, 255, 191), white, coral, white) no-repeat;
 }
 .container {
   display: flex;
