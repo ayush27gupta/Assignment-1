@@ -2,7 +2,7 @@ body {
   margin: 2rem;
   padding: 2rem;
   height: 100vh;
-  width: auto;
+  width: 500vw;
   background: linear-gradient(rgb(41, 255, 191), white, coral, white) no-repeat;
 }
 .container {
