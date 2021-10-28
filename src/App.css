@@ -3,6 +3,7 @@ body {
   padding: 2rem;
   height: 100vh;
   width: auto;
+  background: linear-gradient(rgb(41, 255, 191), white, coral, white);
 }
 .container {
   display: flex;
@@ -10,7 +11,6 @@ body {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  background: linear-gradient(rgb(41, 255, 191), white, coral, white);
 }
 
 .heading {
